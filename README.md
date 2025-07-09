@@ -14,7 +14,8 @@ A modern web app that fetches and displays real-time, AI-generated lists of prod
 
 ## 📸 Screenshots
 
-> image.png
+> ![image](https://github.com/user-attachments/assets/a45d6f4c-84af-4b8a-b282-a036c57e2ad4)
+
 
 ---
 
