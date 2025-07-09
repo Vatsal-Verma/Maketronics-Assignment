@@ -33,6 +33,13 @@ A modern web app that fetches and displays real-time, AI-generated lists of prod
 
 ---
 
+## Setup
+- Fork and clone the project's Repo in your local system.
+- Then run the project on your system via live port.
+
+---
+
+
 ## 📝 Credits
 - Built for the Maketronics Tech Challenge – Smart Data Display
 
