@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Data Display</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button id="themeToggleBtn" title="Toggle theme">🌙</button>
+    <div class="container">
+        <h1>Smart Data Display</h1>
+        <form id="topicForm">
+            <input type="text" id="topicInput" placeholder="Enter a topic or category..." required />
+            <button type="submit">Get Data</button>
+        </form>
+        <div id="filterBar" style="display:none; margin-bottom:18px; gap: 18px;">
+            <div>
+                <label for="priceFilter" style="margin-right:8px;">Price:</label>
+                <select id="priceFilter">
+                    <option value="none">No Filter</option>
+                    <option value="price-asc">Low to High</option>
+                    <option value="price-desc">High to Low</option>
+                </select>
+            </div>
+            <div>
+                <label for="reviewFilter" style="margin-right:8px;">Review:</label>
+                <select id="reviewFilter">
+                    <option value="none">No Filter</option>
+                    <option value="review-desc">High to Low</option>
+                </select>
+            </div>
+        </div>
+        <div id="loading" style="display:none;">Loading...</div>
+        <div id="results"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
