@@ -21,7 +21,7 @@ A modern web app that fetches and displays real-time, AI-generated lists of prod
 ---
 
 ## 🛠️ Tech Stack
-- HTML5, CSS3, JavaScript (Vanilla)
+- HTML5, CSS3, JavaScript 
 - Gemini Api
 
 ---
