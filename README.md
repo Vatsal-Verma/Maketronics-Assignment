@@ -8,7 +8,7 @@ A modern web app that fetches and displays real-time, AI-generated lists of prod
 - Enter any topic/category and get a list of 20 relevant items (title, description, price/source, link)
 - Powered by Google Gemini (Generative AI) API
 - Modern, responsive UI with dark/light theme toggle
-- No backend required—pure HTML, CSS, and JavaScript
+- No backend required pure HTML, CSS, and JavaScript
 
 ---
 
